@@ -51,7 +51,7 @@ To design an end-to-end business intelligence solution that answers:
 
 - `Ouputs/`
   - `NYC_Taxi_Operations.pbix` – full Power BI dashboard file 
-  - `NYC_Taxi_Executive_Report.pdf` – full executive report
+  - `NYC Taxi Executive Report.pdf` – full executive report
   - Dashboard screenshots (Executive Overview, Operations Analysis, Trends) 
 
 ## 🧠 Key Findings from Dashboard Narratives
