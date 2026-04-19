@@ -50,9 +50,8 @@ To design an end-to-end business intelligence solution that answers:
   -  Link to parquet datasets
 
 - `Ouputs/`
-  - `NYC_Taxi_Operations.pbix` – full Power BI dashboard file 
-  - `NYC Taxi Executive Report.pdf` – full executive report
-  - Dashboard screenshots (Executive Overview, Operations Analysis, Trends) 
+  - `Data.pbix` – full Power BI dashboard file 
+  - `Executive Report.pdf` – full executive report
 
 ## 🧠 Key Findings from Dashboard Narratives
 
