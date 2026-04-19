@@ -4,7 +4,7 @@ This solo-developed **Power BI analytics project** analyzes ~**49 million record
 
 I **built the entire poject in a single day** to validate that I could **rapidly execute a full business intelligence pipeline** from raw data ingestion to executive-level reporting in a real-world setting.
 
-The solution integrates **Amazon S3 (Parquet storage)** with Power BI, applies a **star-schema data model**, and delivers **three interactive dashboards** designed for executive decision-making. The final output includes a **full executive report** highlighting key insights, limitations, and actionable business recommendations.
+The final project integrates **Amazon S3 (Parquet storage)** with Power BI, applies a **star-schema data model**, and delivers **three interactive dashboards** designed for executive decision-making. The final output includes a **full executive report** highlighting key insights, limitations, and actionable business recommendations.
 
 ## 🎯 Objective
 
