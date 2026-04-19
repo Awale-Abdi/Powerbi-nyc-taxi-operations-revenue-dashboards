@@ -1,6 +1,6 @@
 <h1 align="center">NYC Taxi Operations & Revenue Intelligence Dashboard – Power BI Report on Demand, Monetization & Data Quality</h1>
 
-This solo-developed **Power BI dashboard** analyzes ~**47 million NYC taxi trips** to uncover patterns in **demand, revenue generation, operational efficiency, and data quality**. The project was built using a **structured, reproducible workflow** that can be executed within **1–2 days**, demonstrating strong command over **data modeling, ETL processes, and executive-level dashboard design**.
+This solo-developed **Power BI dashboard** analyzes ~**49 records** to uncover patterns in **demand, revenue generation, operational efficiency, and data quality**. The project was built using a **structured, reproducible workflow** that was completed in 2 days, demonstrating strong command over **data modeling, ETL processes, and executive-level dashboard design**.
 
 The solution integrates **Amazon S3 (Parquet storage)** with Power BI, applies a **star-schema data model**, and delivers **three interactive dashboards** designed for executive decision-making. The final output includes a **full executive report**, highlighting key insights, limitations, and actionable business recommendations.
 
@@ -19,7 +19,7 @@ To design an end-to-end business intelligence solution that answers:
 ## 📁 Project Scope
 
 - **Timeline**: Built using a streamlined workflow (reproducible in 1–2 days)  
-- **Dataset**: NYC Yellow Taxi data (~47M records, multi-month Parquet files)  
+- **Dataset**: NYC Yellow Taxi data (~49M records, multi-month Parquet files)  
 - **Storage**: Amazon S3 (connected to Power BI)  
 - **Modeling**:
   - Designed a **star schema** with:
