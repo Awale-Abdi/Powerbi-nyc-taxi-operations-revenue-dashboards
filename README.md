@@ -6,8 +6,6 @@ I **built the entire poject in a single day** to validate that I could **rapidly
 
 The solution integrates **Amazon S3 (Parquet storage)** with Power BI, applies a **star-schema data model**, and delivers **three interactive dashboards** designed for executive decision-making. The final output includes a **full executive report** highlighting key insights, limitations, and actionable business recommendations.
 
----
-
 ## 🎯 Objective
 
 To design an end-to-end business intelligence solution that answers:
@@ -16,8 +14,6 @@ To design an end-to-end business intelligence solution that answers:
 - Is performance driven by **volume or monetization efficiency**?
 - Where do **operational inefficiencies** exist across time and geography?
 - What **data quality issues** limit visibility and decision-making?
-
----
 
 ## 📁 Project Scope
 
@@ -48,8 +44,6 @@ To design an end-to-end business intelligence solution that answers:
   - Tip %  
   - KPI formatting for executive readability  
 
----
-
 ## 📁 Project Structure
 
 - `Datasets`  
@@ -58,9 +52,7 @@ To design an end-to-end business intelligence solution that answers:
 - `Ouputs/`
   - `NYC_Taxi_Operations.pbix` – full Power BI dashboard file 
   - `NYC_Taxi_Executive_Report.pdf` – full executive report
-  - Dashboard screenshots (Executive Overview, Operations Analysis, Trends)  
-
----
+  - Dashboard screenshots (Executive Overview, Operations Analysis, Trends) 
 
 ## 🧠 Key Findings from Dashboard Narratives
 
@@ -70,16 +62,12 @@ To design an end-to-end business intelligence solution that answers:
 - Manhattan dominates trips and revenue, indicating **geographic concentration risk**  
 - ~25% of payment data is “Unknown,” highlighting **data quality limitations**  
 
----
-
 ### **Dashboard 2 – Operations & Revenue Analysis**
 - Demand and revenue align by hour, suggesting **generally effective resource allocation**  
 - **Queens shows higher efficiency**, generating more revenue per trip at lower distances  
 - **Brooklyn and the Bronx appear less efficient**, requiring longer trips for similar returns  
 - Significant volume attributed to **Unknown/N/A locations**, indicating missing geographic data  
 - Payment data gaps are concentrated outside core boroughs, suggesting **inconsistent data capture**  
-
----
 
 ### **Dashboard 3 – Performance Trends**
 - Revenue fluctuates more than trips (~$90M–$135M vs. 3.5M–4.6M), indicating **pricing/trip mix effects**  
@@ -88,8 +76,6 @@ To design an end-to-end business intelligence solution that answers:
 - Mid-year plateau suggests **diminishing marginal revenue per trip**  
 - Overall upward trend is strong but masked by **monthly volatility**  
 
----
-
 ## 📊 Tools & Techniques Used
 
 - 📈 **Power BI** – Dashboard design and modeling  
@@ -97,8 +83,6 @@ To design an end-to-end business intelligence solution that answers:
 - 🧩 **DAX** – KPI creation and calculations  
 - 🔗 **Star Schema Modeling** – Fact + dimension-based structure  
 - ☁️ **Amazon S3** – Data storage
-
----
 
 ## 🧠 Recommendations Summary
 
@@ -109,8 +93,6 @@ To design an end-to-end business intelligence solution that answers:
 - Address **data quality gaps** in payment and location tracking  
 - Implement **borough-specific strategies** based on operational differences  
 
----
-
 ## 🧠 What This Project Demonstrates
 
 - Ability to execute a **full end-to-end BI pipeline independently**  
@@ -118,8 +100,6 @@ To design an end-to-end business intelligence solution that answers:
 - Capability to translate data into **clear business insights and decisions**  
 - Awareness of **data limitations and real-world constraints**  
 - Ability to **reproduce complex workflows efficiently under time constraints**  
-
----
 
 ## 📝 Contact Me
 
