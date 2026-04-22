@@ -1,6 +1,6 @@
 This project uses the **NYC Yellow Taxi Trip Data (2025)** dataset, consisting of monthly Parquet files (~700MB total).
 
-Due to GitHub's storage limit constraints and to simulate a production-style data workflow, the dataset is **hosted in AWS S3** and accessed externally rather than stored directly in the repository.
+Due to GitHub's storage limit constraints and to simulate a production-style data workflow, the dataset is **hosted in AWS S3** and accessed externally rather than stored directly in this repository.
 
 ### 🔗 Dataset Access (Amazon S3)
 
