@@ -16,5 +16,3 @@ To reflect a more realistic data workflow, large assets such as the datasets are
 - [Oct 2025](https://awale-nyc-taxi-project.s3.us-east-2.amazonaws.com/Datasets/yellow_tripdata_2025-10.parquet)
 - [Nov 2025](https://awale-nyc-taxi-project.s3.us-east-2.amazonaws.com/Datasets/yellow_tripdata_2025-11.parquet)
 - [Dec 2025](https://awale-nyc-taxi-project.s3.us-east-2.amazonaws.com/Datasets/yellow_tripdata_2025-12.parquet)
-
-> Data is stored in **columnar Parquet format** for efficient querying, compression, and scalability in analytics workflows.
