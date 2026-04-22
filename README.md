@@ -53,7 +53,7 @@ To design an end-to-end business intelligence solution that answer the following
   -  Link to parquet datasets
 
 - `Ouputs/`
-  - `Data.pbix` – full Power BI dashboard file 
+  - `Data.pbix` – link (too large for GitHub)
   - `Executive Report.pdf` – full executive report
 
 ## 🧠 Key Findings from Dashboard Narratives
