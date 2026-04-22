@@ -6,7 +6,7 @@ I **built the entire poject in a single day** to validate that I could **rapidly
 
 The final project integrates **Amazon S3 (Parquet storage)** with Power BI, applies a **star-schema data model**, and delivers **three interactive dashboards** designed for executive decision-making. The final output includes a **full executive report** highlighting key insights, limitations, and actionable business recommendations.
 
-### 🎯 Objective
+## 🎯 Objective
 
 To design an end-to-end business intelligence solution that answer the following hypothetical questions from an executive team:
 
