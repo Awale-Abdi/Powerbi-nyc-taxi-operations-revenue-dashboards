@@ -1,8 +1,8 @@
 This project uses the **NYC Yellow Taxi Trip Data (2025)** dataset, consisting of monthly Parquet files (~700MB total).
 
-Due to GitHub's storage limit constraints and to simulate a production-style data workflow, the dataset is **hosted in AWS S3** and accessed externally rather than stored directly in this repository.
+To reflect a more realistic data workflow, large assets such as the datasets are **hosted in AWS S3** and accessed externally rather than stored directly in this repository.
 
-### 🔗 Dataset Access (Amazon S3)
+### 🔗 Dataset Access
 
 - [Jan 2025](https://awale-nyc-taxi-project.s3.us-east-2.amazonaws.com/Datasets/yellow_tripdata_2025-01.parquet)
 - [Feb 2025](https://awale-nyc-taxi-project.s3.us-east-2.amazonaws.com/Datasets/yellow_tripdata_2025-02.parquet)
