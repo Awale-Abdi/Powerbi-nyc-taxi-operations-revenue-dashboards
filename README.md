@@ -50,14 +50,16 @@ To design an end-to-end business intelligence solution that answer the following
 
 ## 📁 Project Structure
 
-- `Datasets`  
-  -  Link to parquet datasets
+- `Datasets/`  
+  - Parquet files stored in Amazon S3 (see dataset links)
 
-- `Ouputs/`
-  - `Data.pbix` – link (too large for GitHub)
-  - `Executive Report.pdf` – full executive report
+- `Outputs/`
+  - `Data.pbix` – Power BI report file (hosted externally due to size)
+  - `Executive_Report.pdf` – stakeholder-facing executive summary
+  - `star_schema.png` – data model (fact + dimension structure)
+  - `dashboard_*.png` – static previews of key dashboards
 
-## 🧠 Key Findings from Dashboard Narratives
+## 🧠 Key Findings from Dashboards
 
 ### **Dashboard 1 – Executive Overview**
 - Revenue closely tracks trip volume, indicating **demand-driven performance**  
