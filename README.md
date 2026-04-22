@@ -1,5 +1,6 @@
 <h1 align="center">NYC Taxi Data Analysis Dashboards | Power BI Revenue & Operations Insights</h1>
 
+
 This solo-developed **Power BI analytics project** analyzes ~**49 million records** to uncover patterns in **demand, revenue generation, operational efficiency, and data quality**.
 
 I **built the entire poject in a single day** to validate that I could **rapidly execute a full business intelligence pipeline** from raw data ingestion to executive-level reporting in a real-world setting. Wanted to test how much I had mastered Data Analysis utilizing Power BI and am proud of my work on this project.
