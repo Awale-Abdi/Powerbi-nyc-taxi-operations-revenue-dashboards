@@ -1,9 +1,9 @@
-This folder contains the final deliverables for the NYC Taxi Operations & Revenue Intelligence project.
+This folder contains the final dashboard deliverables for the NYC Taxi Operations & Revenue Intelligence project.
 
-Due to GitHub's storage limit and to simulate a production-style data workflow, the Power BI file and the dashboards it contains are **hosted in AWS S3** and accessed externally rather than stored directly in this repository.
+Due to GitHub storage limits and to reflect a production-style workflow, the Power BI file and dashboards are hosted externally in AWS S3 rather than stored directly in this repository.
 
 ### 📈 Power BI Dashboards
-- [Power BI Report File (.pbix)](./Data.pbix)
+- [Power BI Report File (.pbix)](.[/Data.pbix](https://awale-nyc-taxi-project.s3.us-east-2.amazonaws.com/Data.pbix))
 
 Interactive dashboard built in Power BI featuring:
 - KPI overview (Trips, Revenue, Efficiency)
