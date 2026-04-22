@@ -54,10 +54,12 @@ To design an end-to-end business intelligence solution that answer the following
   - Parquet files stored in Amazon S3 (see dataset links)
 
 - `Outputs/`
-  - `Data.pbix` – Power BI report file (hosted externally due to size)
-  - `Executive_Report.pdf` – stakeholder-facing executive summary
-  - `star_schema.png` – data model (fact + dimension structure)
-  - `dashboard_*.png` – static previews of key dashboards
+  - `Power BI Dashboards.md` – Power BI dashboard file (hosted externally)
+  - `Executive Report.pdf` – executive-level analysis and recommendations
+  - `Dashboard 1 - Executive Overview Dashboard.png`
+  - `Dashboard 2 - Operations & Revenue Analysis Dashboard.png`
+  - `Dashboard 3 - Performance Trends Dashboard.png`
+  - `Star Schema.png` – data model structure (fact + dimensions)
 
 ## 🧠 Key Findings from Dashboards
 
