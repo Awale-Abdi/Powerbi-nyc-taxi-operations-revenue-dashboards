@@ -9,7 +9,7 @@ The final project integrates **Amazon S3 for data stoage**, applies a **star-sch
 
 ## 🎯 Objective
 
-To design an end-to-end business intelligence solution that answer the following hypothetical questions from an executive team:
+To design an end-to-end business intelligence solution that answers the following hypothetical questions from an executive team:
 
 - How are trip demand and revenue trending over time?
 -  Is performance driven by trip volume or revenue per trip (monetization efficiency)?
