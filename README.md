@@ -23,7 +23,7 @@ To develop an end-to-end business intelligence project that answers the followin
 
 - **Execution Approach**:
   - Rapidly done from the start of a 9-5 work day until the end to demonstrate a firm command of Data Analytics & Business Reporting utilizing Power BI
-- **Dataset**: NYC Yellow Taxi data (~49M records, 12 months of Parquet files)  | Link to data: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+- **Dataset source**: NYC Yellow Taxi data (~49M records, 12 months of Parquet files)  | Link to data: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 - **Storage**: Amazon S3
 
 - **Modeling**:
