@@ -54,7 +54,7 @@ To develop an end-to-end business intelligence project that answers the followin
   - Parquet files stored in Amazon S3 (see dataset links)
 
 - `Outputs/`
-  - `Power BI Dashboards.md` – Power BI dashboard file (hosted externally)
+  - `Power BI Dashboards.md` – Power BI dashboard file stored in Amazon S3 (see link)
   - `Executive Report.pdf` – executive-level analysis and recommendations
   - `Dashboard 1 - Executive Overview Dashboard.png`
   - `Dashboard 2 - Operations & Revenue Analysis Dashboard.png`
