@@ -3,7 +3,7 @@
 
 This **Power BI analytics project** analyzes ~**49 million records** to uncover patterns in **demand, revenue generation, operational efficiency, and data quality**.
 
-I **built the entire poject in a single day** to validate that I could **rapidly execute a full business intelligence pipeline** from raw data ingestion to executive-level reporting in a real-world setting. Wanted to test how much I had mastered Data Analysis utilizing Power BI and am proud of my work on this project.
+I **built the entire poject in 2 days** to validate that I could **rapidly execute a full business intelligence pipeline** from raw data ingestion to executive-level reporting in a real-world setting. Wanted to test how much I had mastered Data Analysis utilizing Power BI and am proud of my work on this project.
 
 The final project integrates **Amazon S3 for data stoage**, applies a **star-schema data model**, and delivers **three interactive dashboards** designed for executive decision-making. The final output also includes a **full executive report** highlighting key insights, limitations, and actionable business recommendations.
 
@@ -22,7 +22,7 @@ To develop an end-to-end business intelligence project that answers the followin
 ## 📁 Project Scope
 
 - **Execution Approach**:
-  - Rapidly done from the start of a 9-5 work day until the end to demonstrate a firm command of Data Analytics & Business Reporting utilizing Power BI
+  - Rapidly done two 9-5 work day schedules to demonstrate a firm command of Data Analytics & Business Reporting utilizing Power BI
 - **Dataset source**: NYC Yellow Taxi data (~49M records, 12 months of Parquet files)  | Link to data: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 - **Storage**: Amazon S3
 
