@@ -23,16 +23,29 @@ The project simulates requests from an executive leadership team responsible for
 
 ## 🏗️ Solution Architecture
 
-### Business Intelligence Workflow
+#### Workflow
 
-- Enterprise-scale data ingestion
-- Data transformation & cleansing
-- Feature engineering
-- Dimensional modeling
-- KPI development
-- Interactive dashboard development
-- Executive reporting
-
+```text
+Raw Parquet Datasets
+        ↓
+Amazon S3
+        ↓
+Power Query ETL
+        ↓
+Data Cleaning & Transformation
+        ↓
+Feature Engineering
+        ↓
+Dimensional Modeling
+        ↓
+Star Schema Development
+        ↓
+DAX & KPI Development
+        ↓
+Interactive Power BI Dashboards
+        ↓
+Executive Reporting
+```
 ### Data
 
 - **Dataset:** NYC Yellow Taxi Trips
