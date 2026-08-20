@@ -255,7 +255,7 @@ Specifically, it showcases proficiency in:
 - Communicating analytical findings through executive reporting
 - Delivering a complete analytics solution under tight project timelines
 
-Although transportation data provides the case study, the underlying workflow of **data ingestion → transformation → feature engineering → dimensional modeling → KPI development → analysis → visualization → decision support** is broadly transferable across Data Science, Business Analytics, operations, logistics, healthcare, retail, finance, manufacturing, and other data-driven fields.
+As pointed out prior, although transportation data provides the case study, the underlying workflow of **data ingestion → transformation → feature engineering → dimensional modeling → KPI development → analysis → visualization → decision support** is broadly transferable across Data Science, Business Analytics, operations, logistics, healthcare, retail, finance, manufacturing, and other data-driven fields.
 
 ## 📁 Repository Structure
 
