@@ -143,7 +143,7 @@ Analysis of approximately **49 million transportation records** revealed several
 
 #### Operations & Revenue
 
-- Revenue generally aligns with demand, suggesting effective resource allocation across much of the operating network.
+- Revenue aligns with demand, suggesting effective resource allocation across the operating network.
 - Queens demonstrates higher revenue efficiency despite lower average trip distances.
 - Brooklyn and the Bronx require longer trips to generate comparable revenue.
 - A substantial proportion of activity is assigned to unknown geographic locations.
